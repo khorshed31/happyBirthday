@@ -1,12 +1,11 @@
 var config = {
     texts: [
         "Send to Khorshed Alom",      
-        "Beloved Soto Vai", 
+        "Beloved Soto dustu bon", 
         "Today is your birthday",
         "Wish you happy returns of the day",
         "শুভ পয়দা দিবস",
         "অনেক বড় হও",
-        " Masti bole to Kurkure",
         "Lots Of love",
     ],
     imgs: {
