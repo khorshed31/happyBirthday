@@ -6,6 +6,7 @@ var config = {
         "Wish you happy returns of the day",
         "শুভ পয়দা দিবস",
         "অনেক বড় হও",
+        " Masti bole to Kurkure",
         "Lots Of love",
     ],
     imgs: {
